@@ -1,0 +1,52 @@
+Uri: https://bizznests12.z19.web.core.windows.net/
+File Name: C:\Users\Locked Door\Desktop\bizznests12.z19.web.core.windows.net\index.htm.html
+Content Type: text/html
+
+Uri: https://bizznests12.z19.web.core.windows.net/Base.css
+File Name: C:\Users\Locked Door\Desktop\bizznests12.z19.web.core.windows.net\Base.css
+Content Type: text/css
+
+Uri: https://bizznests12.z19.web.core.windows.net/code.jquery.com/jquery-1.12.0.min.js
+File Name: C:\Users\Locked Door\Desktop\bizznests12.z19.web.core.windows.net\code.jquery.com\jquery-1.12.0.min.js
+Content Type: text/javascript
+
+Uri: https://bizznests12.z19.web.core.windows.net/globalnav/apple/contact-us-hero.image.large_2x.jpg
+File Name: C:\Users\Locked Door\Desktop\bizznests12.z19.web.core.windows.net\globalnav\apple\contact-us-hero.image.large_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://bizznests12.z19.web.core.windows.net/globalnav/apple/contact-us-hero.image.small_2x.jpg
+File Name: C:\Users\Locked Door\Desktop\bizznests12.z19.web.core.windows.net\globalnav\apple\contact-us-hero.image.small_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://bizznests12.z19.web.core.windows.net/globalnav/apple/image_small.svg
+File Name: C:\Users\Locked Door\Desktop\bizznests12.z19.web.core.windows.net\globalnav\apple\image_small.svg
+Content Type: image/svg+xml
+
+Uri: https://bizznests12.z19.web.core.windows.net/globalnav/apple/us.png
+File Name: C:\Users\Locked Door\Desktop\bizznests12.z19.web.core.windows.net\globalnav\apple\us.png
+Content Type: image/png
+
+Uri: https://bizznests12.z19.web.core.windows.net/globalnav/bag/image_small.svg
+File Name: C:\Users\Locked Door\Desktop\bizznests12.z19.web.core.windows.net\globalnav\bag\image_small.svg
+Content Type: image/svg+xml
+
+Uri: https://bizznests12.z19.web.core.windows.net/globalnav/links/music/image_small.svg
+File Name: C:\Users\Locked Door\Desktop\bizznests12.z19.web.core.windows.net\globalnav\links\music\image_small.svg
+Content Type: image/svg+xml
+
+Uri: https://bizznests12.z19.web.core.windows.net/globalnav/links/support/image_small.svg
+File Name: C:\Users\Locked Door\Desktop\bizznests12.z19.web.core.windows.net\globalnav\links\support\image_small.svg
+Content Type: image/svg+xml
+
+Uri: https://bizznests12.z19.web.core.windows.net/globalnav/links/tv/image_small.svg
+File Name: C:\Users\Locked Door\Desktop\bizznests12.z19.web.core.windows.net\globalnav\links\tv\image_small.svg
+Content Type: image/svg+xml
+
+Uri: https://bizznests12.z19.web.core.windows.net/globalnav/links/watch/image_small.svg
+File Name: C:\Users\Locked Door\Desktop\bizznests12.z19.web.core.windows.net\globalnav\links\watch\image_small.svg
+Content Type: image/svg+xml
+
+Uri: https://bizznests12.z19.web.core.windows.net/text_tel.js
+File Name: C:\Users\Locked Door\Desktop\bizznests12.z19.web.core.windows.net\text_tel.js
+Content Type: text/javascript
+
